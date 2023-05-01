@@ -1,2 +1,2 @@
 # p4nkktryhard
-P4NKK TRYHARD WEB: p4nkk-tryhard.github.io
+P4NKK TRYHARD WEB: https://p4nkk-tryhard.github.io
